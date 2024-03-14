@@ -21,7 +21,7 @@ require (
 	github.com/zhouqiang-cl/gocovmerge v0.0.0-20190125174600-5256314471af
 	golang.org/x/tools v0.7.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/protobuf v1.33.0
 	gotest.tools/gotestsum v1.8.1
 	mvdan.cc/gofumpt v0.4.0
 	mvdan.cc/sh/v3 v3.3.1
